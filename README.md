@@ -43,6 +43,7 @@ We have served 300+ SMB clients across Taiwan since 2008.
 ## Support my open-source work
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8H222KI0J)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/aikenlin)
 
 ---
 
