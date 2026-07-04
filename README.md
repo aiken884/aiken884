@@ -14,6 +14,8 @@ We have served 300+ SMB clients across Taiwan since 2008.
 
 ## What I'm working on
 
+- 🔌 **[H1Aligner](https://github.com/aiken884/obsidian-h1aligner)** — my first published Obsidian community plugin: keeps note filenames aligned with the first H1, automatically and safely
+
 - 🏗️ **Building AI tools that help small IT outsourcing teams work like enterprise ones** — virtual CIO, automated support, MCP integration
 - 🤖 **Automating the boring parts of Windows IT** — backups, patching, monitoring, ticket triage with PowerShell and Python
 - 📚 **Building a personal "second brain"** — Obsidian + semantic search to recall any past decision in seconds
@@ -37,6 +39,10 @@ We have served 300+ SMB clients across Taiwan since 2008.
 - 🧵 Threads: [@aiken](https://www.threads.com/@aiken)
 - 📷 Instagram: [@aiken](https://www.instagram.com/aiken/)
 - 📘 Facebook: [aiken.lin](https://www.facebook.com/aiken.lin/)
+
+## Support my open-source work
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8H222KI0J)
 
 ---
 
