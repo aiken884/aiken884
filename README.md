@@ -78,11 +78,10 @@ PowerShell · DuckDB · Microsoft 365 · Obsidian · MCP · n8n
 
 <div align="center">
 
-<a href="https://github.com/aiken884/obsidian-h1aligner"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=obsidian-h1aligner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=obsidian-h1aligner&theme=default&hide_border=false" alt="obsidian-h1aligner" /></picture></a>
-<a href="https://github.com/aiken884/herdr-bridge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=herdr-bridge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=herdr-bridge&theme=default&hide_border=false" alt="herdr-bridge" /></picture></a>
-
-<a href="https://github.com/aiken884/RemaGraph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=RemaGraph&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=RemaGraph&theme=default&hide_border=false" alt="RemaGraph" /></picture></a>
-<a href="https://github.com/Megapower-Asia-LLC/design-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Megapower-Asia-LLC&repo=design-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Megapower-Asia-LLC&repo=design-system&theme=default&hide_border=false" alt="design-system" /></picture></a>
+<a href="https://github.com/aiken884/obsidian-h1aligner"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aiken884&repo=obsidian-h1aligner&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="obsidian-h1aligner" /></a>
+<a href="https://github.com/aiken884/herdr-bridge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aiken884&repo=herdr-bridge&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="herdr-bridge" /></a>
+<a href="https://github.com/aiken884/RemaGraph"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aiken884&repo=RemaGraph&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="RemaGraph" /></a>
+<a href="https://github.com/Megapower-Asia-LLC/design-system"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Megapower-Asia-LLC&repo=design-system&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="design-system" /></a>
 
 </div>
 
@@ -92,14 +91,8 @@ PowerShell · DuckDB · Microsoft 365 · Obsidian · MCP · n8n
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aiken884&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aiken884&show_icons=true&include_all_commits=true&theme=default&hide_border=false&title_color=F06000&icon_color=F06000" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiken884&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&text_color=8b949e" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiken884&layout=compact&langs_count=8&theme=default&hide_border=false&title_color=F06000" alt="Top Languages" />
-</picture>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=aiken884&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="GitHub Stats" />
+<img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aiken884&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F06000&text_color=8b949e" alt="Top Languages" />
 
 </div>
 
