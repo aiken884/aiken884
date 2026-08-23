@@ -1,50 +1,145 @@
-# Aiken Lin / 林璟含 👋
+<!-- Header: capsule-render + typing SVG, layout adapted from doggy8088 -->
+<div align="center">
 
-> **Co-founder & General Manager** at [Megapower Asia LLC.](https://www.megapower.asia)
-> 群兆資訊有限公司 共同創辦人兼總經理 · Taipei · since 2008
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F06000&height=180&section=header&text=Aiken%20Lin&fontSize=52&fontColor=ffffff&desc=林璟含%20·%20Taipei%20·%20since%202008&descSize=18&descAlignY=68&fontAlignY=42&animation=fadeIn" alt="Aiken Lin / 林璟含" />
 
-> **IT Services, Business Solutions & Outsourcing**
-> 資訊服務 · 資訊委外 · 電腦維護 · 資訊安全 · 雲端應用整合 · 資料備份與保全 · 企業資訊顧問
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=F06000&center=true&vCenter=true&width=780&height=48&lines=Co-founder+%26+GM+%40+Megapower+Asia;ClientCentric+IT+for+Taiwan+SMBs;Building+AI+tools+for+small+IT+teams)](https://git.io/typing-svg)
 
-I lead a service team that helps Taiwan SMBs build dependable IT environments.
-Our service philosophy is **ClientCentric IT** — design IT strategies around
-business workflows, not vendor products.
+<p>
+  <a href="https://github.com/aiken884">
+    <img src="https://komarev.com/ghpvc/?username=aiken884&label=Profile%20Views&color=F06000&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/aiken884?tab=followers">
+    <img src="https://img.shields.io/github/followers/aiken884?label=Followers&style=for-the-badge&color=F06000&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.megapower.asia">
+    <img src="https://img.shields.io/badge/Megapower-megapower.asia-F06000?style=for-the-badge" alt="Megapower" />
+  </a>
+</p>
 
-We have served 300+ SMB clients across Taiwan since 2008.
-
-## What I'm working on
-
-- 🔌 **[H1Aligner](https://github.com/aiken884/obsidian-h1aligner)** — my first published Obsidian community plugin: keeps note filenames aligned with the first H1, automatically and safely
-
-- 🏗️ **Building AI tools that help small IT outsourcing teams work like enterprise ones** — virtual CIO, automated support, MCP integration
-- 🤖 **Automating the boring parts of Windows IT** — backups, patching, monitoring, ticket triage with PowerShell and Python
-- 📚 **Building a personal "second brain"** — Obsidian + semantic search to recall any past decision in seconds
-- 📊 **Turning years of business Excel into a small data warehouse** — using DuckDB so I can query clients, invoices, vendors in one place
-
-## Tech I work with
-
-**Languages** Python · PowerShell · TypeScript · SQL
-**Data** DuckDB · SQLite · Postgres
-**Cloud** Cloudflare · Microsoft 365 · Azure / Supabase / Vercel
-**AI / Tools** Claude · Perplexity · MCP · Hugging Face
-**Dev** VS Code · Git · Obsidian · Astro · Hedy
-
-## Connect
-
-- 🌐 Company: [www.megapower.asia](https://www.megapower.asia)
-- 📧 Email: aiken@megapower.asia
-- 📍 Taipei, Taiwan · UTC+8
-- 💼 LinkedIn: [in/aikenlin](https://www.linkedin.com/in/aikenlin/)
-- 🐦 X / Twitter: [@aikenlin](https://x.com/aikenlin)
-- 🧵 Threads: [@aiken](https://www.threads.com/@aiken)
-- 📷 Instagram: [@aiken](https://www.instagram.com/aiken/)
-- 📘 Facebook: [aiken.lin](https://www.facebook.com/aiken.lin/)
-
-## Support my open-source work
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8H222KI0J)
-[![PayPal](https://img.shields.io/badge/PayPal-donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/aikenlin)
+</div>
 
 ---
 
+## About me
+
+**Aiken Lin（林璟含）** — Co-founder & General Manager at [Megapower Asia LLC](https://www.megapower.asia)（群兆資訊），Taipei 🇹🇼
+
+I lead a service team that helps Taiwan SMBs run dependable IT. Our philosophy is **ClientCentric IT**: design around the client's workflow, not a vendor's product list. 300+ SMB clients since 2008.
+
+- 🏢 **群兆資訊** — IT services, outsourcing, security, Microsoft 365, backup
+- 🔌 **[H1Aligner](https://github.com/aiken884/obsidian-h1aligner)** — published Obsidian community plugin
+- 🤖 Building AI / MCP tools so a small IT team can work like a larger one
+- 📚 Personal second brain in Obsidian — so past decisions are searchable, not lost in chat
+
+---
+
+## What I'm working on
+
+- 🔌 **[H1Aligner](https://github.com/aiken884/obsidian-h1aligner)** — keep note filenames aligned with the first H1, automatically and safely
+- 🗼 **[herdr-bridge](https://github.com/aiken884/herdr-bridge)** — one command tower for multiple AI coding agents
+- 🧠 **[RemaGraph](https://github.com/aiken884/RemaGraph)** — capture what an agent learned mid-task, so the next agent can continue
+- 🎨 **[Megapower Design System](https://github.com/Megapower-Asia-LLC/design-system)** — brand tokens + BEM components, one-line CDN
+- 🤖 Automating the boring parts of Windows IT — backup, patching, monitoring, ticket triage
+- 📊 Turning years of business Excel into a queryable DuckDB warehouse
+
+---
+
+## Areas of focus
+
+<div align="center">
+
+| Domain | What I actually use |
+|---|---|
+| **IT services** | Microsoft 365 · Windows · backup · security · SMB outsourcing |
+| **Automation** | PowerShell · Python · GitHub Actions · n8n |
+| **Data** | DuckDB · SQLite · Postgres |
+| **Cloud** | Cloudflare · Azure · Microsoft 365 |
+| **AI / agents** | Claude · MCP · Perplexity · Obsidian |
+| **Frontend** | TypeScript · Astro · HTML/CSS |
+
+</div>
+
+---
+
+## Tech stack
+
+<div align="center">
+
+[![Tech stack](https://skillicons.dev/icons?i=py,ts,js,bash,linux,git,githubactions,vscode,cloudflare,azure,postgres,sqlite,astro)](https://skillicons.dev)
+
+PowerShell · DuckDB · Microsoft 365 · Obsidian · MCP · n8n
+
+</div>
+
+---
+
+## Featured projects
+
+<div align="center">
+
+<a href="https://github.com/aiken884/obsidian-h1aligner"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=obsidian-h1aligner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=obsidian-h1aligner&theme=default&hide_border=false" alt="obsidian-h1aligner" /></picture></a>
+<a href="https://github.com/aiken884/herdr-bridge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=herdr-bridge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=herdr-bridge&theme=default&hide_border=false" alt="herdr-bridge" /></picture></a>
+
+<a href="https://github.com/aiken884/RemaGraph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=RemaGraph&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aiken884&repo=RemaGraph&theme=default&hide_border=false" alt="RemaGraph" /></picture></a>
+<a href="https://github.com/Megapower-Asia-LLC/design-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Megapower-Asia-LLC&repo=design-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Megapower-Asia-LLC&repo=design-system&theme=default&hide_border=false" alt="design-system" /></picture></a>
+
+</div>
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aiken884&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&icon_color=F06000&text_color=8b949e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aiken884&show_icons=true&include_all_commits=true&theme=default&hide_border=false&title_color=F06000&icon_color=F06000" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiken884&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F06000&text_color=8b949e" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiken884&layout=compact&langs_count=8&theme=default&hide_border=false&title_color=F06000" alt="Top Languages" />
+</picture>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.megapower.asia"><img src="https://img.shields.io/badge/Website-megapower.asia-F06000?style=for-the-badge" alt="Website" /></a>
+<a href="mailto:aiken@megapower.asia"><img src="https://img.shields.io/badge/Email-aiken@megapower.asia-F06000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/aikenlin/"><img src="https://img.shields.io/badge/LinkedIn-aikenlin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/aikenlin"><img src="https://img.shields.io/badge/X-@aikenlin-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.threads.com/@aiken"><img src="https://img.shields.io/badge/Threads-@aiken-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+<a href="https://www.instagram.com/aiken/"><img src="https://img.shields.io/badge/Instagram-@aiken-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/aiken.lin/"><img src="https://img.shields.io/badge/Facebook-aiken.lin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+📍 Taipei, Taiwan · UTC+8
+
+</div>
+
+---
+
+## Support
+
+If any of this work was useful, you can support it on [Ko-fi](https://ko-fi.com/I8H222KI0J) (card or PayPal) or directly via [PayPal](https://paypal.me/aikenlin). Entirely optional — the projects stay free.
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8H222KI0J)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aikenlin)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F06000&height=100&section=footer&animation=fadeIn" alt="" />
+
 _Opinions expressed here are my own._
+
+</div>
