@@ -109,8 +109,6 @@ PowerShell · DuckDB · Microsoft 365 · Obsidian · MCP · n8n
 
 <div align="center">
 
-<a href="https://www.megapower.asia"><img src="https://img.shields.io/badge/Website-megapower.asia-F06000?style=for-the-badge" alt="Website" /></a>
-<a href="mailto:aiken@megapower.asia"><img src="https://img.shields.io/badge/Email-aiken@megapower.asia-F06000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/aikenlin/"><img src="https://img.shields.io/badge/LinkedIn-aikenlin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/aikenlin"><img src="https://img.shields.io/badge/X-@aikenlin-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.threads.com/@aiken"><img src="https://img.shields.io/badge/Threads-@aiken-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
