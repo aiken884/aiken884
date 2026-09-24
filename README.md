@@ -37,11 +37,11 @@ I lead a service team that helps Taiwan SMBs run dependable IT. Our philosophy i
 ## What I'm working on
 
 - 🔌 **[H1Aligner](https://github.com/aiken884/obsidian-h1aligner)** — keep note filenames aligned with the first H1, automatically and safely
-- 🗼 **[herdr-bridge](https://github.com/aiken884/herdr-bridge)** — one command tower for multiple AI coding agents
-- 🧠 **[RemaGraph](https://github.com/aiken884/RemaGraph)** — capture what an agent learned mid-task, so the next agent can continue
 - 🎨 **[Megapower Design System](https://github.com/Megapower-Asia-LLC/design-system)** — brand tokens + BEM components, one-line CDN
 - 🤖 Automating the boring parts of Windows IT — backup, patching, monitoring, ticket triage
 - 📊 Turning years of business Excel into a queryable DuckDB warehouse
+
+🗄️ _Retired:_ **[herdr-bridge](https://github.com/aiken884/herdr-bridge)** and **[RemaGraph](https://github.com/aiken884/RemaGraph)** are archived — read-only, kept for reference.
 
 ---
 
