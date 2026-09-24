@@ -79,8 +79,6 @@ PowerShell · DuckDB · Microsoft 365 · Obsidian · MCP · n8n
 <div align="center">
 
 <a href="https://github.com/aiken884/obsidian-h1aligner"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aiken884&repo=obsidian-h1aligner&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="obsidian-h1aligner" /></a>
-<a href="https://github.com/aiken884/herdr-bridge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aiken884&repo=herdr-bridge&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="herdr-bridge" /></a>
-<a href="https://github.com/aiken884/RemaGraph"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aiken884&repo=RemaGraph&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="RemaGraph" /></a>
 <a href="https://github.com/Megapower-Asia-LLC/design-system"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Megapower-Asia-LLC&repo=design-system&theme=tokyonight&hide_border=true&title_color=F06000&icon_color=F06000&text_color=8b949e" alt="design-system" /></a>
 
 </div>
